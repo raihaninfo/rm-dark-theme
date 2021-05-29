@@ -1,0 +1,35 @@
+{
+    "name": "rm-dark-theme",
+    "displayName": "rm dark theme",
+    "description": "vs code dark theme",
+    "version": "1.0.1",
+    "icon": "images/logo.png",
+    "publisher": "Md Abu Raihan",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/learnwithsumit/learn-with-sumit-vscode-theme"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+		"dark theme",
+		"light theme",
+		"learn with sumit",
+		"learnwithsumit",
+		"sumit saha"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rm dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rm dark theme-color-theme.json"
+            }
+        ]
+    }
+}
