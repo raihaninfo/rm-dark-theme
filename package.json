@@ -4,7 +4,7 @@
     "description": "vs code dark theme",
     "version": "1.0.1",
     "icon": "images/logo.png",
-    "publisher": "Md Abu Raihan",
+    "publisher": "raihaninfo",
     "engines": {
         "vscode": "^1.56.0"
     },
