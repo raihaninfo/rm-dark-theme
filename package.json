@@ -1,8 +1,8 @@
 {
     "name": "rm-dark-theme",
-    "displayName": "rm dark theme",
-    "description": "vs code dark theme",
-    "version": "1.0.1",
+    "displayName": "Rm Dark Theme",
+    "description": "This is beautiful vs-code dark theme",
+    "version": "1.0.0",
     "icon": "images/logo.png",
     "publisher": "raihaninfo",
     "engines": {
@@ -12,6 +12,10 @@
 		"type": "git",
 		"url": "https://github.com/raihaninfo/rm-dark-theme"
 	},
+    "bugs": {
+        "url": "https://github.com/raihaninfo/rm-dark/issues",
+        "email": "raihanmahmudi35@gmail.com"
+      },
     "categories": [
         "Themes"
     ],
@@ -29,7 +33,7 @@
             {
                 "label": "rm dark theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/rm dark theme-color-theme.json"
+                "path": "./themes/rm-dark-color-theme.json"
             }
         ]
     }
