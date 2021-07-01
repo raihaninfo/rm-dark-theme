@@ -33,7 +33,6 @@ Clone the rm-dark-theme repository
 
     git clone https://github.com/raihaninfo/rm-dark-theme.git
 
-
 <br>
 
 <p align="center"><img src="images/image1.png"></p>
