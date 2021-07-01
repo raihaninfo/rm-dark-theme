@@ -2,9 +2,7 @@
 
 <p><br></p>
 
-# <h1 style="text-align:center; font-size: 40px">Rm Dark Theme</h1>
-
-
+# <h1 style="text-align:center; font-weight: bold; font-size: 40px">Rm Dark Theme</h1>
 
 ## rm-dark-theme
 
@@ -22,7 +20,7 @@ This is beautiful vs-code dark color theme!
 - Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 - Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-# theme in Marketplace <a href='https://marketplace.visualstudio.com/items?itemName=raihaninfo.rm-dark-theme'>rm-dark-theme</a>
+# theme in Marketplace <a style="text-decoration: none;" href='https://marketplace.visualstudio.com/items?itemName=raihaninfo.rm-dark-theme'>rm-dark-theme</a>
 
 ### For more information
 
@@ -34,4 +32,5 @@ This is beautiful vs-code dark color theme!
 <p align="center"><img src="images/image1.png"></p>
 <br>
 <p align="center"><img src="images/image2.png"></p>
-**Enjoy!**
+
+<p style="text-align: center; font-size: 25px"> ** Enjoy! ** </p>
