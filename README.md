@@ -29,6 +29,13 @@ This is beautiful vs-code dark color theme!
 
 <br>
 
+Clone the rm-dark-theme repository
+
+    git clone https://github.com/raihaninfo/rm-dark-theme.git
+
+
+<br>
+
 <p align="center"><img src="images/image1.png"></p>
 <br>
 <p align="center"><img src="images/image2.png"></p>
