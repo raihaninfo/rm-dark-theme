@@ -11,4 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v-1.0.2]
 
 - edit theme documentation
-- one extra color add
+
+## [v-1.0.3]
+
+- issues link added
