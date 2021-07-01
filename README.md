@@ -2,7 +2,7 @@
 
 <p><br></p>
 
-# <h1 style="text-align:center; font-weight: bold; font-size: 40px">Rm Dark Theme</h1>
+ <h1 style="text-align: center">Rm Dark Theme</h1>
 
 ## rm-dark-theme
 
