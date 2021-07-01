@@ -2,7 +2,7 @@
     "name": "rm-dark-theme",
     "displayName": "Rm Dark Theme",
     "description": "This is beautiful vs-code dark theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "images/logo.png",
     "publisher": "raihaninfo",
     "engines": {
@@ -13,7 +13,7 @@
 		"url": "https://github.com/raihaninfo/rm-dark-theme"
 	},
     "bugs": {
-        "url": "https://github.com/raihaninfo/rm-dark/issues",
+        "url": "https://github.com/raihaninfo/rm-dark-theme/issues",
         "email": "raihanmahmudi35@gmail.com"
       },
     "categories": [
