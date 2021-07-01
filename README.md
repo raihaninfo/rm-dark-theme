@@ -37,4 +37,4 @@ Clone the rm-dark-theme repository
 <br>
 <p align="center"><img src="images/image2.png"></p>
 
-<p style="text-align: center; font-size: 25px"> ** Enjoy! ** </p>
+<h2 style="text-align: center; font-size: 25px;"> ** Enjoy! ** </h2>
