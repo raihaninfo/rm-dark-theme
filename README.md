@@ -8,7 +8,7 @@
 
 ## rm-dark-theme
 
-This is Rm Dark VS Code theme!
+This is beautiful vs-code dark color theme!
 
 # How to use
 
