@@ -2,7 +2,7 @@
     "name": "rm-dark-theme",
     "displayName": "Rm Dark Theme",
     "description": "This is beautiful vs-code dark theme",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "images/logo.png",
     "publisher": "raihaninfo",
     "engines": {
