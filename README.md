@@ -1,6 +1,6 @@
 <p align="center"><img width="200px" height="200px" src="images/logo.png"></p>
 
-# <p style="text-align: center">Rm Dark Theme</p>
+# <h1 style="text-align: center">Rm Dark Theme</h1>
 
 ## rm-dark-theme
 
