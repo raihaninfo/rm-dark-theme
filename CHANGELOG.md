@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v-1.0.3]
 
 - issues link added
+
+## [v-1.0.4]
+
+- editor comment foreground color change
