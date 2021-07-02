@@ -269,7 +269,7 @@
 		  "string.quoted.docstring.multi",
 		  "comment.block.documentation source"
 		],
-		"settings": { "foreground": "#D7DEED", "fontStyle": "italic" }
+		"settings": { "foreground": "#9ea1a5", "fontStyle": "italic" }
 	  },
 	  { "scope": ["constant"], "settings": { "foreground": "#fc6a67" } },
 	  {
