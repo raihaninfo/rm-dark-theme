@@ -8,7 +8,7 @@ This is beautiful vs-code dark color theme!
 
 # How to use
 
-- Step 1. install Theme
+- Step 1. <a href="vscode:extension/raihaninfo.rm-dark-theme">install</a> Theme
 - Step 2. select Theme
 - Step 3. Reload VsCode
 
