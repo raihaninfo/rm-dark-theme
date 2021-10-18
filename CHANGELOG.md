@@ -19,3 +19,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v-1.0.4]
 
 - editor comment foreground color change
+
+## [v-1.0.5]
+
+- editor line number color changed
+- fixed bug
